@@ -17,13 +17,17 @@ Run the script or binary.  Select file, a backup is created and the sub file is 
 
 ### Installing / Executing
 
-* decompress file, run script or executable
+* run script or executable
 ```
 python node_remove.py
 ```
 * navigate it to the folder containing your_submarine.sub
 * accept
 * If it's not already in the submaring directory, place resulting .sub file in your barotrauma submarines folder
+
+## Windows binary
+
+* [node_remove.exe](https://github.com/SomberDwarf/node_remove/releases/download/v1.0.1/node_remove.exe)
 
 ## Help
 
@@ -36,7 +40,7 @@ You can find me on the barotrauma discord
 
 ## Version History
 
-* 0.1
+* 1.0.1
     * Initial Release
 
 ## License
