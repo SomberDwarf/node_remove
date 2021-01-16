@@ -1,10 +1,10 @@
 # node_remove
 
-This scans the sub xml for wire nodes and removes all intermediate nodes, leaving only the the origin and termination coordinates.
+This python script is for editing the compressed sub files used in Barotrauma.  node_remove scans the compressed xml file for wire nodes and removes all intermediate nodes, leaving only the the origin and termination coordinates.
 
 ## Description
 
-Sometimes wiring gets to be such a mess that it's easier to startover.  Also useful if you need a clean copy for mirroring.  This is a python based script that decompresses the sub file, edits the xml and recompresses the file.
+Sometimes wiring in the subeditor gets to be such a mess that it's easier to startover.  Also useful if you need a clean copy for mirroring.  This is a python based script that decompresses the sub file, edits the xml and recompresses the file.
 
 ## Getting Started
 
