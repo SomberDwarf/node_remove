@@ -1,6 +1,6 @@
 # node_remove
 
-This scans the sub xml for wire nodes and removes all intermediate nodes, leaving on the the origina and termination coordinates.
+This scans the sub xml for wire nodes and removes all intermediate nodes, leaving only the the origin and termination coordinates.
 
 ## Description
 
