@@ -1,1 +1,49 @@
-# node_remove
+# Project Title
+
+This scans the sub xml for wire nodes and removes all intermediate nodes, leaving on the the origina and termination coordinates.
+
+## Description
+
+Sometimes wiring gets to be such a mess that it's easier to startover.  Also useful if you need a clean copy for mirroring.  This is a python based script that decompresses the sub file, edits the xml and recompresses the file.
+
+## Getting Started
+
+Run the script or binary.  Select file, a backup is created and the sub file is replaced with the changed version.
+
+### Dependencies
+
+* python 3.x
+* or windows binary
+
+### Installing / Executing
+
+* decompress file, run script or executable
+```
+python node_remove.py
+```
+* navigate it to the folder containing your_submarine.sub
+* accept
+* If it's not already in the submaring directory, place resulting .sub file in your barotrauma submarines folder
+
+## Help
+
+Always make your own backups.
+
+## Authors
+
+[@SomberDwarf](https://discord.com/invite/undertow)
+
+## Version History
+
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [gzip](https://github.com/matiassingers/awesome-readme)
+* [xml.etree.elementtree](https://docs.python.org/3/library/xml.etree.elementtree.html)
