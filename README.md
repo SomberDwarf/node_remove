@@ -52,5 +52,6 @@ This project is licensed under the [MIT] License - see the LICENSE.md file for d
 Inspiration, code snippets, etc.
 * [gzip](https://github.com/matiassingers/awesome-readme)
 * [xml.etree.elementtree](https://docs.python.org/3/library/xml.etree.elementtree.html)
+* [Pyinstaller](https://github.com/pyinstaller/pyinstaller)
 * [Barotrauma](https://barotraumagame.com/)
 * [Barotrauma github](https://github.com/Regalis11/Barotrauma)
