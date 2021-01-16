@@ -1,4 +1,4 @@
-# Project Title
+# node_remove
 
 This scans the sub xml for wire nodes and removes all intermediate nodes, leaving on the the origina and termination coordinates.
 
@@ -30,7 +30,8 @@ python node_remove.py
 Always make your own backups.
 
 ## Authors
-
+SomberDwarf
+You can find me on the barotrauma discord
 [@SomberDwarf](https://discord.com/invite/undertow)
 
 ## Version History
@@ -47,3 +48,5 @@ This project is licensed under the [MIT] License - see the LICENSE.md file for d
 Inspiration, code snippets, etc.
 * [gzip](https://github.com/matiassingers/awesome-readme)
 * [xml.etree.elementtree](https://docs.python.org/3/library/xml.etree.elementtree.html)
+* [Barotrauma](https://barotraumagame.com/)
+* [Barotrauma github](https://github.com/Regalis11/Barotrauma)
