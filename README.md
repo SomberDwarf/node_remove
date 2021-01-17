@@ -28,6 +28,8 @@ python node_remove.py
 ## Windows binary
 
 * [node_remove.7z](https://github.com/SomberDwarf/node_remove/releases/download/v1.0.1/node_remove.7z)
+* extract node_remove folder
+* run node_remove.exe from within node_remove directory
 
 ## Help
 
