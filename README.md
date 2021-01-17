@@ -27,7 +27,7 @@ python node_remove.py
 
 ## Windows binary
 
-* [node_remove.exe](https://github.com/SomberDwarf/node_remove/releases/download/v1.0.1/node_remove.exe)
+* [node_remove.7z](https://github.com/SomberDwarf/node_remove/releases/download/v1.0.1/node_remove.7z)
 
 ## Help
 
